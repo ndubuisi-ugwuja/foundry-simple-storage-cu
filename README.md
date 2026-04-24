@@ -16,7 +16,7 @@ This is part of the Cyfrin Updraft Solidity Blockchain Course.
   - [zkSync instructions](#zksync-instructions)
     - [Prerequisites](#prerequisites)
     - [Run a local zkSync test node](#run-a-local-zksync-test-node)
-    - [Deploy to zkSync](#deploy-to-zksync)
+    - [Deploy to Local zkSync Node](#deploy-to-local-zksync-node)
 - [Thank you!](#thank-you)
 
 
@@ -221,7 +221,7 @@ forge build --zksync
 
 ---
 
-## Deploy to Local Node
+## Deploy to Local zkSync Node
 
 Using `forge create`:
 ```bash
